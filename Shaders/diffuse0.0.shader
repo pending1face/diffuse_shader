@@ -5,7 +5,7 @@ Shader "Custom/diffuse0.0"
     Properties
     {
         _Diffuse("Diffuse Color", Color) = (1,1,1,1)
-        rho("rho", Float) = 0.25
+       
     }
         SubShader
     {
